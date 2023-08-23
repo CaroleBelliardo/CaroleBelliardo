@@ -1,6 +1,6 @@
 # CaroleBelliardo 
 
-- 🔭 My main research interests are: 
+🔭 My main research interests are: 
 - Bioinformatics with specialization in genomics and metagenomics
 - High-throughput genome sequencing
 - Horizontal gene transfert in metazoa genomes
