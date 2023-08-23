@@ -15,3 +15,4 @@
 
 
 :newspaper: Gilbert, C., <u> Belliardo <u>, C. The diversity of endogenous viral elements in insects.  Curr Op. in Insect Science, 49, 48-55, (2022). https://doi.org/10.1016/j.cois.2021.11.007
+<u>Votre mot souligné</u>
