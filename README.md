@@ -54,11 +54,9 @@ Carole Belliardo, Adrien Deceneux, Corinne Rancurel, Marc Bailly-Bechet, Etienne
 "Metagenomics mining improves analysis of horizontal gene transfers involved in parasitic function in root-knot nematodes."
 
 📄 19émes Journées Ouvertes Biologie, Informatique et Marthématiques (JOBIM 2018), Marseille France | July 3-6, 2018 [Link](https://jobim2018.sciencesconf.org/)
-
-Bailly-Bechet M, Belliardo C, DanchinEGJ.
+  Bailly-Bechet M, Belliardo C, DanchinEGJ.
 "An -omics search for viruses infecting the phytoparasitic nematode M. incognita."
 
 📄 18émes Journées Ouvertes Biologie, Informatique et Marthématiques (JOBIM 2017), Lille France | July 3-6, 2017 [Link](https://project.inria.fr/jobim2017/fr/)
-
-Belliardo C, Rancurel C, Danchin E and Bailly-Bechet M.
+  Belliardo C, Rancurel C, Danchin E and Bailly-Bechet M.
 "Horizontal gene transfer from viruses in the genomes of plant-parasitic nematodes."
