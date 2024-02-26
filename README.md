@@ -22,6 +22,11 @@ I am harnessing next-generation sequencing data to explore intricate topics such
 
 ## Conferences
 ### Presentations
+🎙️ International Environmental and Agronomical Genomics symposium 2024, Toulouse, France | feb. 16, 2024 [[Link](https://eags2024.sciencesconf.org/)] \
+Carole Belliardo, Corinne Rancurel, Georgios D. Koutsovoulos, Marc Bailly Bechet, Etienne G.J. Danchin.
+"Exploring Horizontal Gene Transfers in Phytoparasitic Nematodes through Soil Metagenomes"
+20′ oral presentation
+
 🎙️ Journées de l’Ecole Doctorale de Nice | May 23-25, 2022 [[Link](https://jedns-bio.fr/)] \
 Carole Belliardo, Corinne Rancurel, Georgios D. Koutsovoulos, Marc Bailly Bechet, Etienne G.J. Danchin.
 "Mining soil metagenomic data improves our understanding of the origin and history of genes acquired by horizontal transfers in plant-parasitic nematodes."
@@ -38,6 +43,10 @@ Carole Belliardo – INRAE (FR).
 15′ Oral Presentation
 
 ### Posters
+📄 International Environmental and Agronomical Genomics symposium 2024 , Toulouse, France | feb. 14-16, 2024 [[Link](https://eags2024.sciencesconf.org/)] \
+Carole Belliardo, Nicolas Maurice, Clémence Frioux, Claire Lemaitre, Riccardo Vicedomini, Samuel Mondy, Marc Bailly-Bechet and Etienne GJ Danchin.
+"Unlocking the Soil Microbiome: Unraveling Soil Microbial Complexity using Long-Read Metagenomics."
+
 📄 JOBIM 2021 (Virtual Edition), Institut Pasteur Paris France | July 6-9, 2021 [[Link](https://jobim2021.sciencesconf.org/)] \
 Carole Belliardo, Mathilde Clement, Justine Lipuma, Georgios D Koutsovoulos, Corinne Rancurel, Marc Bailly-Bechet and Etienne GJ Danchin.
 "Improving the quality of public metagenomic data to study soil microorganisms."
