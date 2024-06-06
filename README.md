@@ -1,16 +1,22 @@
 # CaroleBelliardo 
 
 🔭 My primary research interests include:
-- Bioinformatics with specialization in genomics and metagenomics.
-- High-throughput genome sequencing.
+- Data science and Big Data analysis
+- Bioinformatics with specialization in genomics and metagenomics :dna:.
 - Horizontal gene transfers.
-- Evolution of plant pathogen genomes🌱 .
+- Evolution of plant pathogen genomes🌱.
 - Comparative genomics.
   
-I am harnessing next-generation sequencing data to explore intricate topics such as the evolution of plant pathogen genomes, horizontal gene transfer in metazoan genomes, and the microbial diversity in both environmental and host-associated contexts.
+I am harnessing next-generation sequencing data to explore intricate topics such as the evolution of plant-pathogen genomes, horizontal gene transfer in metazoan genomes, and microbial diversity in environmental and host-associated contexts.
 
 
 ## Publications
+:newspaper: Colinet D., Haon M., Drula E., Boyer M., Grisel S., **Belliardo, C.**, Koutsovoulos G.D., Berrin
+J.G., Danchin E.G.J. Functional carbohydrate-active enzymes acquired by horizontal gene transfer from plants in the
+whitefly Bemisia tabaci. bioRxiv (2024). https://doi.org/10.1101/2024.06.03.597214
+
+**Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). https://doi.org/10.1038/s41597-022-01420-4
+
 :newspaper: **Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). https://doi.org/10.1038/s41597-022-01420-4
 
 
