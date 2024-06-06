@@ -1,11 +1,11 @@
 # CaroleBelliardo 
 
 🔭 My primary research interests include:
-- Data science and Big Data analysis
-- Bioinformatics with specialization in genomics and metagenomics :dna:.
-- Horizontal gene transfers.
-- Evolution of plant pathogen genomes🌱.
-- Comparative genomics.
+- Data science and Big Data analysis :computer:
+- Bioinformatics with specialization in genomics and metagenomics :dna: :microbe:
+- Horizontal gene transfers :dna: :arrow_right: :worm:
+- Evolution of plant pathogen genomes :seedling:
+- Comparative genomics 
   
 I am harnessing next-generation sequencing data to explore intricate topics such as the evolution of plant-pathogen genomes, horizontal gene transfer in metazoan genomes, and microbial diversity in environmental and host-associated contexts.
 
