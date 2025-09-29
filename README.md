@@ -11,6 +11,9 @@ I am harnessing next-generation sequencing data to explore intricate topics such
 
 
 ## Publications
+:newspaper: Belliardo C., Maurice N., Pere A., Mondy S., Franc A., Bailly-Bechet M., Lemaitre C., Vicedomini R., Frigerio J.-M., Salin F., Belmonte É., Sherman D.J., Abad P., Frioux C., **Danchin E.G.J.** Accurate MAG reconstruction from complex soil microbiome through combined short- and HiFi long-reads metagenomics. bioRxiv (2025). [https://doi.org/10.1101/2025.09.12.675765](https://doi.org/10.1101/2025.09.12.675765)
+
+
 :newspaper: Colinet D., Haon M., Drula E., Boyer M., Grisel S., **Belliardo, C.**, Koutsovoulos G.D., Berrin
 J.G., Danchin E.G.J. Functional carbohydrate-active enzymes acquired by horizontal gene transfer from plants in the
 whitefly Bemisia tabaci. bioRxiv (2024). https://doi.org/10.1101/2024.06.03.597214
