@@ -52,6 +52,10 @@ Carole Belliardo – INRAE (FR).
 15′ Oral Presentation
 
 ### Posters
+📄 DynaBio Kick-off meeting, Nice, France | jav. 22-23, 2026 [[Link](https://univ-cotedazur.eu/events/1st-dynabio-meeting)] \
+Balint Jezso, Boglarka Zambo, Salla Keskitalo, Arnaud Landra Willm1, Antti Tuhkele, Carole Belliardo, Bastien Morlet, Luc Negroni, Andras Zeke, Guillaume Sandoz, Markku Varjosalo, Gergo Gogl.
+"Redox-driven control of 4-1BB interactome and signalling."
+
 📄 International Environmental and Agronomical Genomics symposium 2024 , Toulouse, France | feb. 14-16, 2024 [[Link](https://eags2024.sciencesconf.org/)] \
 Carole Belliardo, Nicolas Maurice, Clémence Frioux, Claire Lemaitre, Riccardo Vicedomini, Samuel Mondy, Marc Bailly-Bechet and Etienne GJ Danchin.
 "Unlocking the Soil Microbiome: Unraveling Soil Microbial Complexity using Long-Read Metagenomics."
