@@ -16,17 +16,17 @@ I am harnessing next-generation sequencing data to explore intricate topics such
 
 :newspaper: Colinet D., Haon M., Drula E., Boyer M., Grisel S., **Belliardo, C.**, Koutsovoulos G.D., Berrin
 J.G., Danchin E.G.J. Functional carbohydrate-active enzymes acquired by horizontal gene transfer from plants in the
-whitefly Bemisia tabaci. bioRxiv (2024). https://doi.org/10.1101/2024.06.03.597214
+whitefly Bemisia tabaci. Genome Biology and Evolution, (2025). [[https://doi.org/10.1093/gbe/evaf012](https://doi.org/10.1093/gbe/evaf012)].
 
-**Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). https://doi.org/10.1038/s41597-022-01420-4
+**Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). [[https://doi.org/10.1038/s41597-022-01420-4](https://doi.org/10.1038/s41597-022-01420-4)]
 
-:newspaper: **Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). https://doi.org/10.1038/s41597-022-01420-4
-
-
-:newspaper: Pienaar, R. D., Gilbert, C., **Belliardo, C.**, Herrero, S. & Herniou, E. A. First Evidence of Past and Present Interactions between Viruses and the Black Soldier Fly, Hermetia illucens. Viruses 14, 1274 (2022). https://doi.org/10.3390/v14061274
+:newspaper: **Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). [[https://doi.org/10.1038/s41597-022-01420-4](https://doi.org/10.1038/s41597-022-01420-4)]
 
 
-:newspaper: Gilbert, C.,  **Belliardo, C.** The diversity of endogenous viral elements in insects.  Curr Op. in Insect Science, 49, 48-55, (2022). https://doi.org/10.1016/j.cois.2021.11.007
+:newspaper: Pienaar, R. D., Gilbert, C., **Belliardo, C.**, Herrero, S. & Herniou, E. A. First Evidence of Past and Present Interactions between Viruses and the Black Soldier Fly, Hermetia illucens. Viruses 14, 1274 (2022). [[https://doi.org/10.3390/v14061274](https://doi.org/10.3390/v14061274)]
+
+
+:newspaper: Gilbert, C.,  **Belliardo, C.** The diversity of endogenous viral elements in insects.  Curr Op. in Insect Science, 49, 48-55, (2022). [[https://doi.org/10.1016/j.cois.2021.11.007](https://doi.org/10.1016/j.cois.2021.11.007)]
 
 
 ## Conferences
