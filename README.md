@@ -11,26 +11,22 @@ I am harnessing next-generation sequencing data to explore intricate topics such
 
 
 ## Publications
-:newspaper: Belliardo C., Maurice N., Pere A., Mondy S., Franc A., Bailly-Bechet M., Lemaitre C., Vicedomini R., Frigerio J.-M., Salin F., Belmonte É., Sherman D.J., Abad P., Frioux C., **Danchin E.G.J.** Accurate MAG reconstruction from complex soil microbiome through combined short- and HiFi long-reads metagenomics. bioRxiv (2025). [https://doi.org/10.1101/2025.09.12.675765](https://doi.org/10.1101/2025.09.12.675765)
-
+:newspaper: Belliardo, C., Maurice, N., Pere, A. et al. Accurate MAG reconstruction from a complex soil microbiome through combined short- and HiFi long-reads metagenomics. Environmental Microbiome (2026).  [https://doi.org/10.1186/s40793-026-00952-1](https://doi.org/10.1186/s40793-026-00952-1)
 
 :newspaper: Colinet D., Haon M., Drula E., Boyer M., Grisel S., **Belliardo, C.**, Koutsovoulos G.D., Berrin
 J.G., Danchin E.G.J. Functional carbohydrate-active enzymes acquired by horizontal gene transfer from plants in the
 whitefly Bemisia tabaci. Genome Biology and Evolution, (2025). [https://doi.org/10.1093/gbe/evaf012](https://doi.org/10.1093/gbe/evaf012).
 
-**Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). [https://doi.org/10.1038/s41597-022-01420-4](https://doi.org/10.1038/s41597-022-01420-4).
-
 :newspaper: **Belliardo, C.**, Koutsovoulos, G.D., Rancurel, C. et al. Improvement of eukaryotic protein predictions from soil metagenomes. Sci Data 9, 311 (2022). [https://doi.org/10.1038/s41597-022-01420-4](https://doi.org/10.1038/s41597-022-01420-4).
 
-
 :newspaper: Pienaar, R. D., Gilbert, C., **Belliardo, C.**, Herrero, S. & Herniou, E. A. First Evidence of Past and Present Interactions between Viruses and the Black Soldier Fly, Hermetia illucens. Viruses 14, 1274 (2022). [https://doi.org/10.3390/v14061274](https://doi.org/10.3390/v14061274).
-
 
 :newspaper: Gilbert, C.,  **Belliardo, C.** The diversity of endogenous viral elements in insects.  Curr Op. in Insect Science, 49, 48-55, (2022). [https://doi.org/10.1016/j.cois.2021.11.007](https://doi.org/10.1016/j.cois.2021.11.007).
 
 
 ## Conferences
 ### Presentations
+
 🎙️ International Environmental and Agronomical Genomics symposium 2024, Toulouse, France | feb. 16, 2024 [[Link](https://eags2024.sciencesconf.org/)] \
 Carole Belliardo, Corinne Rancurel, Georgios D. Koutsovoulos, Marc Bailly Bechet, Etienne G.J. Danchin.
 "Exploring Horizontal Gene Transfers in Phytoparasitic Nematodes through Soil Metagenomes"
@@ -52,6 +48,10 @@ Carole Belliardo – INRAE (FR).
 15′ Oral Presentation
 
 ### Posters
+📄Gordon Research Conference, Newry, Maine, United States | Aug 9-14, 2026 [[Link](https://www.grc.org/visual-system-development-conference/2026/)]
+Paolo Piovani, Carole Belliardo, Rahul Makam, Boglarka Zambo, Annabelle Mantilleri, Christian P. Schaaf, Patrick Yu-Wai-Man, Michele Bertacchi, Michèle Studer
+"An NR2F1-dependent retinoic acid network controls retinal regionalization and foveal specialization in the BBSOAS neurodevelopmental syndrome"
+
 📄 DynaBio Kick-off meeting, Nice, France | jav. 22-23, 2026 [[Link](https://univ-cotedazur.eu/events/1st-dynabio-meeting)] \
 Balint Jezso, Boglarka Zambo, Salla Keskitalo, Arnaud Landra Willm1, Antti Tuhkele, Carole Belliardo, Bastien Morlet, Luc Negroni, Andras Zeke, Guillaume Sandoz, Markku Varjosalo, Gergo Gogl.
 "Redox-driven control of 4-1BB interactome and signalling."
