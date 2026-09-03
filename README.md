@@ -48,7 +48,7 @@ Carole Belliardo – INRAE (FR).
 15′ Oral Presentation
 
 ### Posters
-📄Gordon Research Conference, Newry, Maine, United States | Aug 9-14, 2026 [[Link](https://www.grc.org/visual-system-development-conference/2026/)]
+📄Gordon Research Conference, Newry, Maine, United States | Aug 9-14, 2026 [[Link](https://www.grc.org/visual-system-development-conference/2026/)] \
 Paolo Piovani, Carole Belliardo, Rahul Makam, Boglarka Zambo, Annabelle Mantilleri, Christian P. Schaaf, Patrick Yu-Wai-Man, Michele Bertacchi, Michèle Studer
 "An NR2F1-dependent retinoic acid network controls retinal regionalization and foveal specialization in the BBSOAS neurodevelopmental syndrome"
 
