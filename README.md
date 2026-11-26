@@ -11,6 +11,8 @@ I am harnessing next-generation sequencing data to explore intricate topics such
 
 
 ## Publications
+:newspaper: Zambo B, et al. Redox-driven control of 4-1BB interactome and signaling. BioRxiv (2026). https://www.biorxiv.org/content/10.64898/2026.11.12.766337
+
 :newspaper: Piovani P, **Belliardo C**,  et al. An NR2F1-dependent retinoic acid network controls retinal specialization in mice and reveals foveal hypoplasia in patients with BBSOAS. BioRxiv (2026). [https://www.biorxiv.org/content/10.64898/2026.09.22.753406](https://www.biorxiv.org/content/10.64898/2026.09.22.753406)
 
 :newspaper: Belliardo C., Maurice N., Pere A. et al. Accurate MAG reconstruction from a complex soil microbiome through combined short- and HiFi long-reads metagenomics. Environmental Microbiome (2026).  [https://doi.org/10.1186/s40793-026-00952-1](https://doi.org/10.1186/s40793-026-00952-1)
